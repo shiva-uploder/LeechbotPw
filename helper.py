@@ -5,7 +5,7 @@ import asyncio
 import os
 import requests
 import time
-Import ffmpeg
+import ffmpeg
 from p_bar import progress_bar
 import aiohttp
 import tgcrypto
